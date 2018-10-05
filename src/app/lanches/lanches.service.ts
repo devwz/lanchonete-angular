@@ -8,7 +8,7 @@ import { Lanche } from './lanche';
 @Injectable()
 export class LanchesService {
 
-    lanchesUrl = 'http://localhost:3000/lanches';
+    lanchesUrl = 'http://localhost:60574/api/lanches';
 
     constructor(private http: HttpClient) { }
 
