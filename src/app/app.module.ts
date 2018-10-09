@@ -4,7 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
-import { MainComponent } from './main/main.component';
+import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
 import { LanchesComponent } from './lanches/lanches.component';
 import { BebidasComponent } from './bebidas/bebidas.component';
@@ -14,7 +14,7 @@ import { IngredientesComponent } from './ingredientes/ingredientes.component';
   declarations: [
     AppComponent,
     HeaderComponent,
-    MainComponent,
+    HomeComponent,
     FooterComponent,
     LanchesComponent,
     BebidasComponent,
