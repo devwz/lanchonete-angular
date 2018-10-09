@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
 import { Lanche } from './lanche';
 
 @Injectable()
-export class LanchesService {
+export class LancheService {
 
     lanchesUrl = 'http://localhost:60574/api/lanches';
 

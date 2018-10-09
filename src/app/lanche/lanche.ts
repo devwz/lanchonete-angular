@@ -1,4 +1,4 @@
-import { Ingrediente } from './ingrediente';
+import { Ingrediente } from '../ingredientes/ingrediente';
 
 export interface Lanche {
     id: number;

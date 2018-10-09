@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
-import { LanchesComponent } from './lanches/lanches.component';
+import { LancheComponent } from './lanche/lanche.component';
 import { BebidasComponent } from './bebidas/bebidas.component';
 import { IngredientesComponent } from './ingredientes/ingredientes.component';
 
@@ -16,7 +16,7 @@ import { IngredientesComponent } from './ingredientes/ingredientes.component';
     HeaderComponent,
     HomeComponent,
     FooterComponent,
-    LanchesComponent,
+    LancheComponent,
     BebidasComponent,
     IngredientesComponent
   ],
